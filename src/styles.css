@@ -1,0 +1,13 @@
+div {
+    display: block;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p{
+    display: block;
+    font-weight: 500;
+}
