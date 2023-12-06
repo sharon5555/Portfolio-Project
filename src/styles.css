@@ -181,6 +181,15 @@ footer {
 
 @media only screen and (max-width: 992px) {
 
+    .content h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .content h2 {
+        font-size: 16px;
+    }
+
     h1 {
         font-size: 40px;
         line-height: 52px;
